@@ -1,2 +1,3 @@
 # tstp
 practice makes perfect :'D
+Attempts resulting in the success and failures in my python exercises are documented in this repo...
